@@ -5,4 +5,5 @@ Workshop guide by Taylor Davedow (davedowt@myumanitoba.ca)
 
 Workshop lecture (March 2, 2022) video will be available on YouTube
 
-Workshop R script and some datasets are created by Taylor, and some datasets prepared using BLAST for the practice as part of this workshop.
+Workshop R script was created by Taylor.
+Original dataset was modified from Arteaga et al., 2020 paper (doi: https://doi.org/10.1099/mgen.0.000340) for the practice as part of this workshop.
